@@ -6,7 +6,7 @@ There are different types of objects(listed on the top). Each object supports di
 2. Floater(red): small balls moving in strage way(basically straight line but with fluctuations), with same constant speed as 'ball', bouncing around in the display window.
 3. Black hole(black): when balls or floaters pass the black hole(overlap with the black hole), black hole will 'eat' the passing object.
 4. Plusator(black): Similar as Black hole but will change size. It will shrink as time passes unless it eats. It will eventually disappear on the window if it doesn't eat.
-5. Hunter: Similar as Plusator but will move in straight line and constant speed, bouncing around in the window.
+5. Hunter(black): Similar as Plusator but will move in straight line and constant speed, bouncing around in the window.
 6. Special(green): Special object that will follow user's command to move. User can use "WASD" to control the ball move upward, leftward, downward and rightward with default constant speed. It will shrink and eat any balls or floaters as a hunter. When it hit the edge of the display window, it will 'die' with a popup window asking the user whether or not to restart the game. It restart, the display window will clean up. 
 
 Other Buttons:
@@ -18,6 +18,7 @@ Other Buttons:
 
 Ball cycle information:
 The number of objects and the number of cycles will be displayed at the upper right. 
+
 <img width="1068" alt="Screen Shot 2022-04-30 at 12 56 40 PM" src="https://user-images.githubusercontent.com/62400474/166120907-4c5c30fa-32ec-43a4-bcc2-9e2160cc94b8.png">
 
 <img width="1073" alt="Screen Shot 2022-04-30 at 12 55 35 PM" src="https://user-images.githubusercontent.com/62400474/166120903-42d661c2-3fea-4edf-be97-1223eca06b21.png">
