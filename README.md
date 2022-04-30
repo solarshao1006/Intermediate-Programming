@@ -32,3 +32,7 @@ The number of objects and the number of cycles will be displayed at the upper ri
 <img width="1069" alt="Screen Shot 2022-04-30 at 12 56 31 PM" src="https://user-images.githubusercontent.com/62400474/166120897-a4ebabb5-3e31-4ee5-92c7-011a76f82b4c.png">
 
 <img width="1067" alt="Screen Shot 2022-04-30 at 12 55 21 PM" src="https://user-images.githubusercontent.com/62400474/166120904-707b9024-e3d5-4ba9-8e6c-f95c04c92bdb.png">
+
+
+Instruction on running the code:
+Code for each object is writing in separate '.py' files. When running the animation, run the scrip.py file. 
