@@ -22,9 +22,9 @@ The number of objects and the number of cycles will be displayed at the upper ri
 
 <img width="1073" alt="Screen Shot 2022-04-30 at 12 55 35 PM" src="https://user-images.githubusercontent.com/62400474/166120903-42d661c2-3fea-4edf-be97-1223eca06b21.png">
 
-<img width="1069" alt="Screen Shot 2022-04-30 at 12 55 57 PM" src="https://user-images.githubusercontent.com/62400474/166120900-a035ddfc-94c5-4fd3-9bfd-b21ef82b2373.png">
-
 <img width="1070" alt="Screen Shot 2022-04-30 at 12 55 46 PM" src="https://user-images.githubusercontent.com/62400474/166120902-19d0cff8-1042-4a33-9e54-a33b82fa5714.png">
+
+<img width="1069" alt="Screen Shot 2022-04-30 at 12 55 57 PM" src="https://user-images.githubusercontent.com/62400474/166120900-a035ddfc-94c5-4fd3-9bfd-b21ef82b2373.png">
 
 <img width="1070" alt="Screen Shot 2022-04-30 at 12 56 15 PM" src="https://user-images.githubusercontent.com/62400474/166120899-edb261d5-9388-4b41-aa7a-7c0cf7ec1d1e.png">
 
